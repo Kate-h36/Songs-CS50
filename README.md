@@ -27,8 +27,8 @@
   - Example queries for common data retrieval tasks.
  
  ## Usage
-
-To use this program and run the SQL queries, follow these steps:
+ 
+ To use this program and run the SQL queries, follow these steps:
 
 1. Ensure you have `sqlite3` installed on your system.
 2. Create an SQLite database with the tables `songs` and `artists` as specified in the program.
@@ -37,7 +37,10 @@ To use this program and run the SQL queries, follow these steps:
 5. Navigate to the directory where your SQL files and database are located.
 6. Run the SQL queries using the following command, replacing `filename.sql` with the query file and `songs.db` with your database name:
 
+   
+
 `cat filename.sql | sqlite3 songs.db`
+
 
 View the results in the terminal.
 
