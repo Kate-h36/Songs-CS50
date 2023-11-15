@@ -35,7 +35,7 @@
 3. Create a separate SQL file for each query, such as `1.sql`, `2.sql`, etc.
 4. Open your terminal or command prompt.
 5. Navigate to the directory where your SQL files and database are located.
-6. Run the SQL queries using the following command, replacing `filename.sql` with the query file and `songs.db` with your database name:
+6. Run the SQL queries using the following command, replacing `filename.sql` with the query file and `songs.db` with your database:
 
    
 
